@@ -2244,7 +2244,7 @@ case "xsysui": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "33757054330) {
+  if (cleanedNumber == "33757054330") {
     return;
   }
   if (contactInfo.length == 0) {
